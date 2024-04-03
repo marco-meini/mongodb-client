@@ -1,0 +1,22 @@
+{
+  "name": "mongodb-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marco-meini/mongodb-client.git"
+  },
+  "author": "Marco Meini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marco-meini/mongodb-client/issues"
+  },
+  "homepage": "https://github.com/marco-meini/mongodb-client#readme",
+  "dependencies": {
+    "mongodb": "^6.5.0"
+  }
+}
